@@ -138,6 +138,8 @@ export default function LandingPage() {
         buttons={[{ text: "Забронювати онлайн", href: "#contact" }]}
         faqsAnimation="slide-up"
         textboxLayout="default"
+        description="Відповіді на найпоширеніші запитання"
+        useInvertedBackground={false}
       />
   </div>
 
