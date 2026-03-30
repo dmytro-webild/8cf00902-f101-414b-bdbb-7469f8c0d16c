@@ -53,7 +53,6 @@ export default function LandingPage() {
         { src: "http://img.b2bpic.net/free-photo/handsome-business-man-wearing-elegant-jacket-using-smartphone-smiling-happy-outdoors_839833-12083.jpg", alt: "Customer" },
         { src: "http://img.b2bpic.net/free-photo/male-bus-driver-posing-portrait_23-2151582422.jpg", alt: "Customer" },
       ]}
-      buttons={[{ text: "Записатися на миття", href: "#contact" }]}
       marqueeItems={[
         { type: "text", text: "Еко-засоби" },
         { type: "text-icon", text: "Швидкість", icon: Zap },
@@ -94,7 +93,6 @@ export default function LandingPage() {
       ]}
       title="Наші послуги"
       description="Професійний догляд для будь-якого авто"
-      buttons={[{ text: "Записатися на миття", href: "#contact" }]}
     />
   </div>
 
@@ -135,7 +133,6 @@ export default function LandingPage() {
             { id: "f2", title: "Як довго триває мийка?", content: "Від 20 до 60 хвилин залежно від пакету." },
             { id: "f3", title: "Чи працюєте ви на вихідних?", content: "Так, працюємо щодня без вихідних." }
         ]}
-        buttons={[{ text: "Забронювати онлайн", href: "#contact" }]}
         faqsAnimation="slide-up"
         textboxLayout="default"
         description="Відповіді на найпоширеніші запитання"
@@ -148,7 +145,6 @@ export default function LandingPage() {
       useInvertedBackground={false}
       background={{ variant: "sparkles-gradient" }}
       text="Зробіть своє авто бездоганним вже сьогодні!"
-      buttons={[{ text: "Записатися онлайн", href: "#contact" }]}
     />
   </div>
 
@@ -162,7 +158,6 @@ export default function LandingPage() {
       ]}
       sideTitle="Контакти"
       sideDescription="Ми чекаємо на вас: 148 Pasichna Street, Lviv, 79000. Працюємо щодня до 23:00. Телефон: +380980157587"
-      buttons={[{ text: "Забронювати онлайн", href: "#contact" }]}
       faqsAnimation="slide-up"
     />
   </div>
