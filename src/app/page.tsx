@@ -223,7 +223,7 @@ export default function LandingPage() {
           name: "Олександр",
           role: "Клієнт",
           testimonial: "Дуже швидка та якісна мийка. Авто як нове!",
-          imageSrc: "http://img.b2bpic.net/free-photo/male-bus-driver-posing-portrait_23-2151582422.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/male-bus-driver-posing-portrait_23-2151582422.jpg?_wi=1",
         },
         {
           id: "t2",
@@ -251,7 +251,7 @@ export default function LandingPage() {
           name: "Андрій",
           role: "Клієнт",
           testimonial: "Завжди мию тут авто, задоволений результатом.",
-          imageSrc: "http://img.b2bpic.net/free-photo/male-bus-driver-posing-portrait_23-2151582422.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/male-bus-driver-posing-portrait_23-2151582422.jpg?_wi=2",
         },
       ]}
       title="Відгуки клієнтів"
