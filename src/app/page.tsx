@@ -198,6 +198,10 @@ export default function LandingPage() {
       ]}
       sideTitle="Контакти"
       sideDescription="Ми чекаємо на вас: 148 Pasichna Street, Lviv, 79000. Працюємо щодня до 23:00. Телефон: +380980157587"
+      buttons={[
+        {
+          text: "Забронювати онлайн",          href: "#contact"}
+      ]}
       faqsAnimation="slide-up"
     />
   </div>
